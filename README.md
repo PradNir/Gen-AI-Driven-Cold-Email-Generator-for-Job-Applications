@@ -1,4 +1,6 @@
-**Project Aim:**
+
+**Project Aim:** 
+
 
 The aim of this project is to develop a Generative AI-powered tool for creating personalized cold
 emails that students and early-career professionals can use to reach out to potential employers.
